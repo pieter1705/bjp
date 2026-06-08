@@ -1,0 +1,8 @@
+vendor/
+.env
+config.php
+database.php
+uploads/
+backup/
+*.sql
+.DS_Store
